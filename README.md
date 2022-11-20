@@ -9,7 +9,8 @@
 ### 🔨 Skills and Tools
 <div  align="center">
 <div > 
-    <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-                  wordmark.svg" alt="aws" width="40" height="40"/> </a>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img       src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> 
+    </a>
     <a href="https://golang.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" />
     </a>
