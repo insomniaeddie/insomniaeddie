@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on The Cloud Resume Challenge
 - 🌱 I’m currently learning Terraform, K8S and Python
 - ☁️ I'm interested in devops and Cloud 
+- :books: I'm a bookworm, you can check out the books I read for the past few years from my goodreads page [here].(https://www.goodreads.com/user/show/43507588-eddie-c)
 - 📜 Reach my blog page from [here](https://medium.com/@ShadowDevop323)
 
 
